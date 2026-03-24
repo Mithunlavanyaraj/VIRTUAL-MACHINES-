@@ -1,5 +1,7 @@
 # VIRTUAL-MACHINES-
 EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
+# Name: M.Mithuraj
+# Register Number: 212223045002
 
 Aim:
 To move the files between virtual machine.
